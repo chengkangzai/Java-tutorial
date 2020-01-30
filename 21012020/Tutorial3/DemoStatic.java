@@ -16,6 +16,7 @@ public class DemoStatic {
         //Object NonStatic 
         DemoStatic object = new DemoStatic();
         System.out.println(object.idd);
-        
     }
+
+    
 }

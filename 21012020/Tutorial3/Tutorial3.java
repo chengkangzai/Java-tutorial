@@ -10,8 +10,8 @@ public class Tutorial3 {
 
     public static void main(String[] args) {
         //Belong to other Class
-        System.out.println(DemoStatic.id);
-        System.out.println(DemoStatic.name);
+        System.out.println(DemoStatic.id +DemoStatic.name);
+        //System.out.println(DemoStatic.name);
     }
 
     public void disp(int count) {
